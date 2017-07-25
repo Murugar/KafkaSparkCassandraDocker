@@ -1,2 +1,2 @@
 # KafkaSparkCassandraDocker
-Kafka Spark Cassandra
+Kafka Spark Cassandra Docker
